@@ -1,4 +1,4 @@
-const objectsMerge = (...objects) => ({ ...objects });
+const objectsMerge = (...objects) => ({  });
 
 export default objectsMerge;
 
